@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LinkWeddingGaLu/static/css/main.1154f0d1.css",
+    "main.css": "/LinkWeddingGaLu/static/css/main.699c6346.css",
     "main.js": "/LinkWeddingGaLu/static/js/main.9bf82403.js",
     "static/js/453.fe9e553c.chunk.js": "/LinkWeddingGaLu/static/js/453.fe9e553c.chunk.js",
     "index.html": "/LinkWeddingGaLu/index.html",
-    "main.1154f0d1.css.map": "/LinkWeddingGaLu/static/css/main.1154f0d1.css.map",
+    "main.699c6346.css.map": "/LinkWeddingGaLu/static/css/main.699c6346.css.map",
     "main.9bf82403.js.map": "/LinkWeddingGaLu/static/js/main.9bf82403.js.map",
     "453.fe9e553c.chunk.js.map": "/LinkWeddingGaLu/static/js/453.fe9e553c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1154f0d1.css",
+    "static/css/main.699c6346.css",
     "static/js/main.9bf82403.js"
   ]
 }
