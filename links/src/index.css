@@ -1,0 +1,16 @@
+:root{
+  --claro: #f6f6ef;
+  --verde: #71816e;
+  --marrom: #66554b;
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: var(--claro);
+}
