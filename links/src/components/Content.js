@@ -20,6 +20,9 @@ const Content = () => {
             <a href="https://noivos.casar.com/luiza-e-gabriel-2025-05-04#/rsvp" target="_black" >Confirmação de Presença</a>
           </li>
           <li>
+            <a href="/LinkWeddingGaLu/pdf/manual.pdf" target="_blank" rel="noopener noreferrer">Manual do convidado</a>
+          </li>
+          <li>
             <a href="https://noivos.casar.com/luiza-e-gabriel-2025-05-04" target="_black" >Lista de Presentes</a>
           </li>
           <li>
